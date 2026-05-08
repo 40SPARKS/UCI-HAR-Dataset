@@ -1,0 +1,20 @@
+# Ignore virtual environments
+HAR/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Optionally ignore raw dataset if too large
+# data/

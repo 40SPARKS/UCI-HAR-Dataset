@@ -1,0 +1,17 @@
+# Ignore virtual environment
+HAR/
+.venv/
+
+# Ignore raw data if large
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/git 
