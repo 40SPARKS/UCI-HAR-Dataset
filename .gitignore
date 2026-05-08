@@ -18,3 +18,6 @@ Thumbs.db
 
 # Optionally ignore raw dataset if too large
 # data/
+
+# Ignore raw dataset files
+data/
