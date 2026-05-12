@@ -20,3 +20,9 @@ Thumbs.db
 
 # Ignore raw dataset folder (if large or sensitive)
 data/
+
+# Word temp files
+~$*.docx
+
+# Plots folder (if generated locally)
+plot/
