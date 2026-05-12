@@ -1,5 +1,4 @@
-# Ignore virtual environments
-HAR/
+# HAR project virtual environment
 .venv/
 
 # Ignore Python cache files
@@ -16,8 +15,8 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Optionally ignore raw dataset if too large
-# data/
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
 
-# Ignore raw dataset files
+# Ignore raw dataset folder (if large or sensitive)
 data/
