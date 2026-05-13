@@ -27,3 +27,8 @@ data/
 
 # Plots folder (if generated locally)
 plot/
+
+*.npy
+*.pkl
+plot/
+HAR/venv/
