@@ -31,3 +31,8 @@ Train models and generate plots:
 python src/modeling.py
 
 Check the plot/ folder for visualizations.
+
+Notes
+-Random Forest gives strong overall accuracy (~93%).
+-Weighted soft voting combines predictions from RF and XGBoost to improve balance.
+-This code is modular, so you can adapt it later for your own sensor data.
