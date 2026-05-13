@@ -32,3 +32,5 @@ plot/
 *.pkl
 plot/
 HAR/venv/
+
+graphs,charts etc/
